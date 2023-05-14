@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Takkeshi</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on [SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)
+- 🔭 I’m currently working on **[SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)**
 
 - 🌱 I’m currently learning **Js and C#**
 
 - 👯 I’m exprerienced with **PHP, Python, HTML, CSS, C, etc.**
 
-- 🤝 I’m looking for help with **Bringing SteamGen to production**
+- 🤝 I’m looking for help with **[SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)**
 
 - 📫 How to reach me **tacobusiness@gmail.com**
 
