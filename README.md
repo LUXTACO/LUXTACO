@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **[SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)**
 
-- 🌱 I’m currently learning **Js and C#**
+- 🌱 I’m currently learning **[Js and C#](m)**
 
-- 👯 I’m exprerienced with **PHP, Python, HTML, CSS, C, etc.**
+- 👯 I’m exprerienced with **[PHP, Python, HTML, CSS, C, etc.](m)**
 
 - 🤝 I’m looking for help with **[SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)**
 
