@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Takkeshi</h1>
 <h3 align="center">A passionate indie developer from Mexico</h3>
 
-- 🔭 I’m currently working on **[SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)**
+- 🔭 I’m currently working on **[Aria](https://coming.soon)**
 
 - 🌱 I’m currently learning **[Js and C#](m)**
 
 - 👯 I’m exprerienced with **[PHP, Python, HTML, CSS, C, etc.](m)**
 
-- 🤝 I’m looking for help with **[SteamGen](https://github.com/LUXTACO/Steam-Account-Generator)**
+- 🤝 I’m looking for help with **[Aria](https://coming.soon)**
 
 - 📫 How to reach me **[tacobusiness@gmail.com](mailto:tacobusiness@gmail.com)**
 
