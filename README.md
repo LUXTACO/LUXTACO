@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./standard(2).gif" />
+  <img src="./README/standard(2).gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Takkeshi</h1>
