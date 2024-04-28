@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Aria Backend](https://coming.soon)**
 
-- 🌱 I’m currently learning **[Js](m)**
+- 🌱 I’m currently learning **[JavaScript](m)**
 
 - 👯 I’m exprerienced with **[PHP, Python, HTML, CSS, C#, C, etc.](m)**
 
