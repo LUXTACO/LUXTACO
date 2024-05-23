@@ -43,6 +43,12 @@
 - [SuperVibesV2](https://music.youtube.com/playlist?list=PLbALFw6ImtbhUfqAyBYBiCtxxR3OhaDmZ&si=WMNa2Ca6McVDwD7j) old version, but still baller.
 - [SuperVibesV1](https://music.youtube.com/playlist?list=PLbALFw6Imtbiq2NVXayE_ZsLVddXLGrAf) the OG playlist, its full of absolute bangers.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Takkeshi&show_icons=true&theme=radical" alt="My GitHub Stats" />
+</p>
+
 ---
 
 <p align="center">
