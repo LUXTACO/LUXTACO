@@ -33,4 +33,4 @@ I was the main developer of [SteamGen]([https://](https://github.com/LUXTACO/Ste
 
 ---
 
-Let's create something cool together! 🙌
+Contact me for any projects you need done. Im always available! 🙌
