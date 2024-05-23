@@ -12,6 +12,7 @@
 - Computer Vision
 - Game Bots
 - API Based Bots
+- Backend Servers
 
 ## 💻 Programming Skills
 
