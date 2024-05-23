@@ -2,9 +2,7 @@
   <img src="./README/standard(2).gif" />
 </p>
 
----
-
-I'm a 17-year-old full stack developer with a passion for back-end development.
+I'm a 17-year-old full stack developer with a passion for back-end development and computer vision projects.
 
 ## 🧰 Areas of Expertise
 
