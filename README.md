@@ -24,7 +24,7 @@ I'm a 17-year-old full stack developer with a passion for back-end development a
 ## 📬 Contact Me
 
 - Discord: __.takkeshi__
-- Business Email: [tacomastabusiness@gmail.com](mainlto:tacomastabusiness@gmail.com)
+- Business Email: [tacomastabusiness@gmail.com](mailto:tacomastabusiness@gmail.com)
 - ~~Website: [takkeshi.pages.dev](https://takkeshi.pages.dev) (links to my socials)~~ (⚒ WIP ⚒)
 
 ## 🚀 Projects
