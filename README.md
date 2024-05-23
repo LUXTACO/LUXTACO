@@ -29,13 +29,14 @@ I'm a 17-year-old full stack developer with a passion for back-end development a
 
 ## 🚀 Projects
 
-I was the main developer of [SteamGen](https://github.com/LUXTACO/Steam-Account-Generator) a fully automatic steam account generator with cloudflare bypass aswell as auto captcha completion.
-I am the developer of [Osussist](https://github.com/LUXTACO/Osussist-External-AimAssist) the best fully external computer vision cheat for osu, with over 300+ downloads across github and unknowncheats.
+- [SteamGen](https://github.com/LUXTACO/Steam-Account-Generator) a fully automatic steam account generator with cloudflare bypass aswell as auto captcha completion.
+- [Osussist](https://github.com/LUXTACO/Osussist-External-AimAssist) the best fully external computer vision cheat for osu, with over 300+ downloads across github and unknowncheats.
+- [DBFarmer](https://github.com/LUXTACO/DBFarmer) the best DBLegends Farmer, with intelligent features like anti stuck and remote control with discord.
 
 ## 🎶 My Playlist
 
-[SuperVibesV3](https://music.youtube.com/playlist?list=PLbALFw6Imtbgaux6YbG7dP0mDf96JHOQ1&si=xvkQv_nN2LMlmGDQ) aesthetic rap playlist, perfect for programming imo.
-[SuperVibesV2](https://music.youtube.com/playlist?list=PLbALFw6ImtbhUfqAyBYBiCtxxR3OhaDmZ&si=WMNa2Ca6McVDwD7j) old version, but still baller.
+- [SuperVibesV3](https://music.youtube.com/playlist?list=PLbALFw6Imtbgaux6YbG7dP0mDf96JHOQ1&si=xvkQv_nN2LMlmGDQ) aesthetic rap playlist, perfect for programming imo.
+- [SuperVibesV2](https://music.youtube.com/playlist?list=PLbALFw6ImtbhUfqAyBYBiCtxxR3OhaDmZ&si=WMNa2Ca6McVDwD7j) old version, but still baller.
 
 ---
 
