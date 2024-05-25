@@ -27,7 +27,7 @@
 ## 📬 Contact Me
 
 - Discord: __.takkeshi__
-- ~~Website: [takkeshi.pages.dev](https://takkeshi.pages.dev) (links to my socials)~~ (⚒ WIP ⚒)
+- Website: [takkeshi.pages.dev](https://takkeshi.pages.dev) (⚒ STILL A WIP ⚒)
 - Business Email: [tacomastabusiness@gmail.com](mailto:tacomastabusiness@gmail.com)
 
 ## 🚀 Projects
