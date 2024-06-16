@@ -34,7 +34,7 @@
 ## 🚀 Projects
 
 - [SteamGen](https://github.com/LUXTACO/Steam-Account-Generator) a fully automatic steam account generator with cloudflare bypass aswell as auto captcha completion.
-- [Osussist](https://github.com/LUXTACO/Osussist-External-AimAssist) the best fully external computer vision cheat for osu, with over 300+ downloads across github and unknowncheats.
+- [Osussist](https://github.com/LUXTACO/Osussist-External-AimAssist) the best fully external computer vision cheat for osu, with over 300+ downloads.
 - [DBFarmer](https://github.com/LUXTACO/DBFarmer) the best DBLegends Farmer, with intelligent features like anti stuck and remote control with discord.
 - [RageBot](https://github.com/LUXTACO/RageBot-McBot) the best All-In-One minecraft helper, made with mineflayer and node.js.
 
