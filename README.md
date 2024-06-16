@@ -27,6 +27,7 @@
 ## 📬 Contact Me
 
 - Discord: __.takkeshi__
+- Discord Server: [discord.gg/PdeTUZ3M62](https://discord.gg/PdeTUZ3M62)
 - Website: [takkeshi.pages.dev](https://takkeshi.pages.dev)
 - Business Email: [tacomastabusiness@gmail.com](mailto:tacomastabusiness@gmail.com)
 
