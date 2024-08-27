@@ -16,12 +16,15 @@
 
 ## 💻 Programming Skills
 
+- C#
 - Python
 - HTML
-- JavaScript
+- CSS
+- C++
 - Node.js
+- JavaScript
+- PostgreSQL
 - MySQL
-- C#
 - C
 
 ## 📬 Contact Me
