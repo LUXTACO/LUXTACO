@@ -19,6 +19,7 @@
 - C
 - C#
 - C++
+- Java
 - Python
 - Javascript
 - Html & Css
