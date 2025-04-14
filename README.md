@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I was a cheat developer once 💀
+  Hey, I'm Takkeshi and I like to make stuff
 </p>
 
 ## 📬 Contact Me
