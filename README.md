@@ -3,28 +3,8 @@
 </p>
 
 <p align="center">
-  I'm a full stack developer with a passion for back-end development and computer vision projects.
+  I was a cheat developer once 💀
 </p>
-
-## 🧰 Areas of Expertise
-
-- Browser Automation
-- Computer Vision
-- Game Bots
-- API Based Bots
-- Backend Servers
-
-## 💻 Programming Skills
-
-- C
-- C#
-- C++
-- Java
-- Python
-- Javascript
-- Html & Css
-- MySQL
-- PostgreSQL
 
 ## 📬 Contact Me
 
