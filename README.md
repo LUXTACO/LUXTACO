@@ -2,10 +2,6 @@
   <img src="./README/standard(2).gif" />
 </p>
 
-<p align="center">
-  Hey, I'm Takkeshi and I like to make stuff
-</p>
-
 ## 📬 Contact Me
 
 - Discord: __.takkeshi__
