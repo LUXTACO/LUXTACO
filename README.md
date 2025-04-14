@@ -33,12 +33,6 @@
 - Discord Server: [discord.gg/PdeTUZ3M62](https://discord.gg/PdeTUZ3M62)
 - Business Email: [tacomastabusiness@gmail.com](mailto:tacomastabusiness@gmail.com)
 
-## 🎶 My Playlists
-
-- [SuperVibesV3](https://music.youtube.com/playlist?list=PLbALFw6Imtbgaux6YbG7dP0mDf96JHOQ1&si=xvkQv_nN2LMlmGDQ) aesthetic rap playlist, perfect for programming imo.
-- [SuperVibesV2](https://music.youtube.com/playlist?list=PLbALFw6ImtbhUfqAyBYBiCtxxR3OhaDmZ&si=WMNa2Ca6McVDwD7j) old version, but still baller.
-- [SuperVibesV1](https://music.youtube.com/playlist?list=PLbALFw6Imtbiq2NVXayE_ZsLVddXLGrAf) the OG playlist, its full of absolute bangers.
-
 ## 📊 GitHub Stats
 
 <p align="center">
