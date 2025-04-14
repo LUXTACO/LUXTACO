@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I'm a 17-year-old full stack developer with a passion for back-end development and computer vision projects.
+  I'm a full stack developer with a passion for back-end development and computer vision projects.
 </p>
 
 ## 🧰 Areas of Expertise
