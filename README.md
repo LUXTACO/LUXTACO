@@ -38,13 +38,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LUXTACO&show_icons=true&theme=gruvbox" alt="My GitHub Stats" />
 </p>
-
-<p align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LUXTACO&layout=compact&theme=gruvbox&card_width=515" />
-</p>
-
----
-
-<p align="center">
-  Contact me for any projects you need done. Im always available! 🙌
-</p>
